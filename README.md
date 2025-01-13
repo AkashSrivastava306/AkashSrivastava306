@@ -9,13 +9,6 @@ As an enthusiast in the field of machine learning, I’ve gained valuable experi
 B. Tech in Computer Science from Shri Ramswaroop Memorial University (2023).
 Conversation AI Developer at TCS since December 2023.
 Experience in multiple internships in Machine Learning and Data Science, where I gained practical insights into real-world applications.
-🛠️ Key Skills & Expertise:
-Natural Language Processing (NLP)
-Python Programming
-Machine Learning
-Data Analysis & Visualization
-HTML & CSS
-MySQL
 🤝 Connect with Me:
 I’m always eager to connect with professionals and enthusiasts in the fields of Machine Learning, Data Science, and NLP. Feel free to reach out for networking, project collaborations, or discussions on the latest industry trends.
 - 
