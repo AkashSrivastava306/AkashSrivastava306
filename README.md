@@ -1,18 +1,43 @@
-👋 Hi, I’m @AkashSrivastava306!
+# 👋 Hi, I’m Akash Srivastava!
 
-I’m passionate about Machine Learning and Data Science, and I specialize in Natural Language Processing (NLP). I completed my B. Tech from Shri Ramswaroop Memorial University in 2023, and I am currently working as a Conversation AI Developer at TCS.
+I'm passionate about **Machine Learning**, **Data Science**, and I specialize in **Natural Language Processing (NLP)**.  
+I completed my **B.Tech in Computer Science** from **Shri Ramswaroop Memorial University** in 2023, and I'm currently working as a **Conversation AI Developer at TCS**.
 
-🔍 About Me:
-As an enthusiast in the field of machine learning, I’ve gained valuable experience through internships and hands-on projects. My current focus is on NLP, Python, and Machine Learning.
+---
 
-💻 Professional Background:
-B. Tech in Computer Science from Shri Ramswaroop Memorial University (2023).
-Conversation AI Developer at TCS since December 2023.
-Experience in multiple internships in Machine Learning and Data Science, where I gained practical insights into real-world applications.
-🤝 Connect with Me:
-I’m always eager to connect with professionals and enthusiasts in the fields of Machine Learning, Data Science, and NLP. Feel free to reach out for networking, project collaborations, or discussions on the latest industry trends.
-- 
-- 📫 How to reach me : Mail me on akashsri306@gmail.com
+## 🔍 About Me
+
+As an ML and NLP enthusiast, I've gained hands-on experience through multiple **internships** and **real-world projects**.  
+Currently, my work revolves around:
+
+- Natural Language Processing  
+- Machine Learning (Classification, NLP Pipelines, etc.)  
+- Python-based automation and model building  
+
+---
+
+## 💼 Professional Background
+
+- 🎓 **B.Tech** in Computer Science – Shri Ramswaroop Memorial University (2023)  
+- 💼 **Conversation AI Developer** – Tata Consultancy Services (TCS), since Dec 2023  
+- 🔬 Completed multiple internships in **Machine Learning** and **Data Science**, applying theory to production-level solutions
+
+---
+
+## 🤝 Let’s Connect!
+
+I'm always excited to connect with professionals and enthusiasts in:
+
+- Machine Learning  
+- Natural Language Processing  
+- Generative AI  
+- AI-based automation tools and platforms
+
+Feel free to reach out for **networking**, **collaborations**, or just a friendly chat on industry trends.
+
+📫 **Email**: [akashsri306@gmail.com](mailto:akashsri306@gmail.com)
+
+---
 
 <!---
 AkashSrivastava306/AkashSrivastava306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
